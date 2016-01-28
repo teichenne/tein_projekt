@@ -1,5 +1,24 @@
 /* to bo nasa CSS datoteka */
 
-#main {
-  color: red;
+#header {
+    color: red;
+    background-color: yellow;
+    margin: 0px;
+    padding: 0px;
+    width: 200px;
+    height: 200px;
+    /*positio: relative;  */
+    top: 10px;
+    left: 10px;
+}
+
+
+#kvadratek {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 50%;
+    left:50%;
+    background-color: aqua;
+    
 }
